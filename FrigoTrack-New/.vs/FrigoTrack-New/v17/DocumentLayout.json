@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Stores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Server\\Stores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Server\\Storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\SensorSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Common\\SensorSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\close-response.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\schemas\\close-response.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\close-request.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\schemas\\close-request.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\envelope.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\schemas\\envelope.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\error.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\schemas\\error.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\SecureEndpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Server\\SecureEndpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\readings-request.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\schemas\\readings-request.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\readings-response.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\schemas\\readings-response.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Server\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Client\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Client\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\handshake-request.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\schemas\\handshake-request.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\handshake-response.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\schemas\\handshake-response.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\SecureClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Common\\SecureClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\SecureChannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Common\\SecureChannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\SchemaValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Common\\SchemaValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\Schemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Common\\Schemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Tests\\ProtocolTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Tests\\ProtocolTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\ProtectedApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Server\\ProtectedApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Common\\Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\KeyExchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Common\\KeyExchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\HttpJson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Server\\HttpJson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\DiffieHellman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Common\\DiffieHellman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\ApiHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Server\\ApiHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Alarms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Server\\Alarms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\AlarmRules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Server\\AlarmRules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\Cipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\FrigoTrack.Common\\Cipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrigoTrack\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stores.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Stores.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Server\\Stores.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Stores.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Server\\Stores.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:56:31.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Storage.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Server\\Storage.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Storage.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Server\\Storage.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:56:20.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SensorSession.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\SensorSession.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Common\\SensorSession.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\SensorSession.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Common\\SensorSession.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:55:54.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SecureEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\SecureEndpoint.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Server\\SecureEndpoint.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\SecureEndpoint.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Server\\SecureEndpoint.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:55:22.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SecureClient.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\SecureClient.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Common\\SecureClient.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\SecureClient.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Common\\SecureClient.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:54:16.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SecureChannel.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\SecureChannel.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Common\\SecureChannel.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\SecureChannel.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Common\\SecureChannel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:53:52.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SchemaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\SchemaValidator.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Common\\SchemaValidator.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\SchemaValidator.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Common\\SchemaValidator.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:53:35.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Schemas.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\Schemas.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Common\\Schemas.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\Schemas.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Common\\Schemas.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:53:14.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\README.md",
+              "RelativeDocumentMoniker": "FrigoTrack\\README.md",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\README.md",
+              "RelativeToolTip": "FrigoTrack\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-09T18:53:13.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "readings-response.json",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\readings-response.json",
+              "RelativeDocumentMoniker": "FrigoTrack\\schemas\\readings-response.json",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\readings-response.json",
+              "RelativeToolTip": "FrigoTrack\\schemas\\readings-response.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T18:53:13.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "readings-request.json",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\readings-request.json",
+              "RelativeDocumentMoniker": "FrigoTrack\\schemas\\readings-request.json",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\readings-request.json",
+              "RelativeToolTip": "FrigoTrack\\schemas\\readings-request.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T18:53:13.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProtocolTests.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Tests\\ProtocolTests.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Tests\\ProtocolTests.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Tests\\ProtocolTests.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Tests\\ProtocolTests.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:52:37.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProtectedApi.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\ProtectedApi.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Server\\ProtectedApi.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\ProtectedApi.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Server\\ProtectedApi.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:51:16.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Program.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Program.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:50:09.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Client\\Program.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Client\\Program.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:49:03.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\Models.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Common\\Models.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\Models.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Common\\Models.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:48:39.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T18:48:37.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KeyExchange.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\KeyExchange.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Common\\KeyExchange.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\KeyExchange.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Common\\KeyExchange.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:48:08.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HttpJson.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\HttpJson.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Server\\HttpJson.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\HttpJson.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Server\\HttpJson.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:47:48.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "handshake-response.json",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\handshake-response.json",
+              "RelativeDocumentMoniker": "FrigoTrack\\schemas\\handshake-response.json",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\handshake-response.json",
+              "RelativeToolTip": "FrigoTrack\\schemas\\handshake-response.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T18:47:48.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "handshake-request.json",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\handshake-request.json",
+              "RelativeDocumentMoniker": "FrigoTrack\\schemas\\handshake-request.json",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\handshake-request.json",
+              "RelativeToolTip": "FrigoTrack\\schemas\\handshake-request.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T18:47:47.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "error.json",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\error.json",
+              "RelativeDocumentMoniker": "FrigoTrack\\schemas\\error.json",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\error.json",
+              "RelativeToolTip": "FrigoTrack\\schemas\\error.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T18:47:41.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "envelope.json",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\envelope.json",
+              "RelativeDocumentMoniker": "FrigoTrack\\schemas\\envelope.json",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\envelope.json",
+              "RelativeToolTip": "FrigoTrack\\schemas\\envelope.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T18:47:40.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DiffieHellman.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\DiffieHellman.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Common\\DiffieHellman.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\DiffieHellman.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Common\\DiffieHellman.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:47:09.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "close-response.json",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\close-response.json",
+              "RelativeDocumentMoniker": "FrigoTrack\\schemas\\close-response.json",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\close-response.json",
+              "RelativeToolTip": "FrigoTrack\\schemas\\close-response.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T18:47:06.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "close-request.json",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\close-request.json",
+              "RelativeDocumentMoniker": "FrigoTrack\\schemas\\close-request.json",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\schemas\\close-request.json",
+              "RelativeToolTip": "FrigoTrack\\schemas\\close-request.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T18:47:03.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApiHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\ApiHelpers.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Server\\ApiHelpers.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\ApiHelpers.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Server\\ApiHelpers.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:46:53.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Alarms.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Alarms.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Server\\Alarms.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\Alarms.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Server\\Alarms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:46:45.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AlarmRules.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\AlarmRules.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Server\\AlarmRules.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Server\\AlarmRules.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Server\\AlarmRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:46:35.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Cipher.cs",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\Cipher.cs",
+              "RelativeDocumentMoniker": "FrigoTrack\\FrigoTrack.Common\\Cipher.cs",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\FrigoTrack.Common\\Cipher.cs",
+              "RelativeToolTip": "FrigoTrack\\FrigoTrack.Common\\Cipher.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:46:03.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\.gitignore",
+              "RelativeDocumentMoniker": "FrigoTrack\\.gitignore",
+              "ToolTip": "C:\\Users\\warsc\\Downloads\\FrigoTrack-New\\FrigoTrack\\.gitignore",
+              "RelativeToolTip": "FrigoTrack\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-09T18:13:52.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

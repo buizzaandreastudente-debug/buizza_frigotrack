@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FrigoTrack",
+    "\\FrigoTrack\\FrigoTrack.Client",
+    "\\FrigoTrack\\FrigoTrack.Common",
+    "\\FrigoTrack\\FrigoTrack.Server",
+    "\\FrigoTrack\\FrigoTrack.Tests",
+    "\\FrigoTrack\\schemas"
+  ],
+  "SelectedNode": "\\FrigoTrack\\FrigoTrack.sln",
+  "PreviewInSolutionExplorer": false
+}
